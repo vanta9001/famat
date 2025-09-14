@@ -1,2 +1,0 @@
-# famat
-initial d
